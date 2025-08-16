@@ -10,7 +10,7 @@ This add-on allow you to have a snapcast server and/or client running on Home As
 Currently only the librespot stream is implemented in this add-on which provide synchronius playback for Spotify on multiple devices.
 
 ## Installation
-* In the Home Assistant Add-on store, add the repository: https://github.com/EvTheFuture/hassio-addon-repository
+* In the Home Assistant Add-on store, add the repository: https://github.com/BeePerNet/hassio-addon-repository
 * Search for Snapcast and install the Add-on
 
 ## Configuration
@@ -35,5 +35,3 @@ The following configuration options exists
 - `host`: address to the snapcast server
 - `extra_params`: Any extra parameters to use when startign the client process.
 
-## Support my work
-[![buy-me-a-coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/EvTheFuture)
