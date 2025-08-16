@@ -1,4 +1,4 @@
-# EvTheFuture's add-on repository for Home Assistant
+# BeePerNet's add-on repository for Home Assistant
 
 This repository contain the following add ons
 
