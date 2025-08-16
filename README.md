@@ -2,7 +2,7 @@
 
 This repository contain the following add ons
 
-## [Snapcast](https://github.com/BeePerNet/homeassistant-addons/tree/master/snapcast)
+## [Snapcast](https://github.com/BeePerNet/hassio-addon-repository/tree/master/snapcast)
 ![GitHub](https://img.shields.io/github/license/BeePerNet/hassio-addon-repository)
 ![GitHub issues](https://img.shields.io/github/issues/BeePerNet/hassio-addon-snapcast)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BeePerNet/hassio-addon-snapcast)
