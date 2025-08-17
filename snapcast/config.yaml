@@ -58,4 +58,3 @@ schema:
     port: port?
     extra_params: str?
 host_network: true
-#image: BeePerNet/hassio-addon-snapcast-{arch}
